@@ -1,0 +1,6 @@
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Random Name Generator\Random Name Generator\bin\Debug\Random Name Generator.exe.config
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Random Name Generator\Random Name Generator\bin\Debug\Random Name Generator.exe
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Random Name Generator\Random Name Generator\bin\Debug\Random Name Generator.pdb
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Random Name Generator\Random Name Generator\obj\Debug\Random Name Generator.csprojResolveAssemblyReference.cache
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Random Name Generator\Random Name Generator\obj\Debug\Random Name Generator.exe
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Random Name Generator\Random Name Generator\obj\Debug\Random Name Generator.pdb
